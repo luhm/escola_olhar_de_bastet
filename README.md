@@ -40,7 +40,7 @@ Para que toda a equipe tenha acesso e acompanhe o desenvolvimento desse projeto,
 - Na pasta `data` é possível encontrar os dados em formato csv puro e já limpo.
 - Na pasta `análises` é possível encontrar os códigos `.ypinb` utilizados nas análises e os relatórios finais.
 - Na pasta `dashboards` é possível encontrar o código completo do deploy do dashboard no streamlit.
-- Na pasta `informacoes_gerais` é possível ver os documentos construídos durante as conversas com stakeholders e designs da empresa.
+- Na pasta `docs` é possível ver os documentos construídos durante as conversas com stakeholders e designs da empresa.
 
 ---
 Faremos um único dashboard que contenha as seguintes abas:
