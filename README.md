@@ -6,7 +6,7 @@
 
 Para isso, a instituição mobilizou uma equipe de dados para analisar suas bases de dados de pagamento para avaliar o impacto de cada regime utilizado atualmente e como unifica-los em um único modelo.
 
-Após uma conversa extensa, foram definidos alguns [objetivos e KPIs]() essenciais para análise. A análises serão limitadas focalizando as diferenças por escola (de A até AI), por função (regência e não-regência) e por mês (fev, mar, abr).
+Após uma conversa extensa, foram definidos alguns [objetivos e KPIs](docs/kpis.md) essenciais para análise. A análises serão limitadas focalizando as diferenças por escola (de A até AI), por função (regência e não-regência) e por mês (fev, mar, abr).
 
 ---
 ### **Modelos de Pagamento**
